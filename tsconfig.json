@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+		"jsx":"react",
+    "sourceMap": true,
+		"target": "ESNext",
+		"allowSyntheticDefaultImports": true,
+		"moduleResolution": "node",
+		"esModuleInterop": true,
+		"allowJs": false
+  },
+	"exclude": ["node_modules", "dist", "public"],
+	"include": ["./src"]
+}
+  
